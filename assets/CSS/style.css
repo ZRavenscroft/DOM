@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #BEBEBE;
+}
+#main-pic{
+    width: 65%;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    margin-top: 50px;
+}
+.sub{
+    margin-top: 20px;
+}
+.image-setting{
+    width: 15%;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
